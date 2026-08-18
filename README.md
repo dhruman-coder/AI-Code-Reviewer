@@ -1,1 +1,1 @@
-AI-powered code reviewer with static analysis, local LLM review, quality scoring, and code improvement suggestions.
+AI Code Reviewer — An AI-powered code analysis tool that combines AST-based static analysis with a local Ollama LLM to detect bugs, security vulnerabilities, performance issues, and code quality problems, generate improvement suggestions, and provide an overall code quality score.
